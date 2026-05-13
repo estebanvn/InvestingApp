@@ -30,6 +30,8 @@ Whether you're just starting out or already managing a serious portfolio, Invest
 - Topics include: how the stock market works, building your first portfolio, ETFs vs stocks, reading charts, fundamental analysis, macro investing, risk management, and more
 - Each course has video lessons, progress tracking, and a completion badge
 - No finance degree required — everything is explained in plain language
+- daily 1v1s: challenge a schoolmate to a daily quiz (if you win, you can go up in the leaderboard or you get points to get another badge
+- there will also be courses/videos on what to do before investing (openeing up a HYSA, checkings account, emergency fund, budgeting, etc.) 
 
 ### 💬 Direct Messaging
 - Message any investor directly to ask questions, share ideas, or collaborate
