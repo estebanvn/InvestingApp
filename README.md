@@ -41,6 +41,12 @@ Whether you're just starting out or already managing a serious portfolio, Invest
 - Followers and following counts
 - Your verified status displayed on your profile and every post you publish
 
+### School Leaderboards
+- connect with others in your school and view their portoflios in real time
+- compete in a leaderboard made up of users in your school based on your gains overtime
+- message them directly
+- compete in daily quizzes against other schoolmates that could affect your rank in the leaderboard
+- get notifications when someone moves abopve you or when someone challenges you to a daily quiz
 ---
 
 ## The Verification & Badge System
