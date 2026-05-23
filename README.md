@@ -36,6 +36,12 @@ Whether you're just starting out or already managing a serious portfolio, Invest
 - Full chat interface with real-time replies
 - Connect with verified investors whose strategies you admire
 
+### School Leaderbaords
+- see your schools total protfolio value and rank nationally comapred to other schools
+- see your place in the leaderboard overall in the nation and in your school based on portoflio gains
+- unclock new badges by climbing up the leaderbaord, allowing your profile to gain publicity
+- challenege others in your school to daily investing quizzes to give you a boost and gain followers
+
 ### 👤 Investor Profiles
 - Public profile showing your portfolio allocation, YTD returns, posts, and badges
 - Followers and following counts
